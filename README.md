@@ -1,7 +1,7 @@
 # Hi, I’m Ole Martin
 - 👀 I’m interested in gaming, movies and anime.
 - 🌱 I’m currently studying Applied Computer Science
-- 💞️ I’m looking to lern as much as possible
+- 💞️ I’m looking to learn as much as possible
 - 📫 You can reach me on discord: OleMartin#1744
 
 <!---
